@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+x64/
+Debug/
+Release/
+
+# Binaries / intermediate files
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.obj
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.lastbuildstate
+*.recipe
+*.tlog
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
